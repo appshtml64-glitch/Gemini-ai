@@ -1,0 +1,7 @@
+{
+  "name": "Assistente Virtual Gemini",
+  "description": "Um assistente de IA avançado capaz de conversar por texto e voz em tempo real usando a API Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
